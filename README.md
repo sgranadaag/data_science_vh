@@ -6,4 +6,4 @@ En este repositorio puedes tener acceso al dataset de vehiculos con el cual se r
 [Cuaderno](https://colab.research.google.com/drive/1zuRMtQx6ACrissr8bIpsf0cWAJset50j?usp=sharing) donde se encuentra el codigo fuente de nuestro modelo
 
 ## Enlace de youtube
-[Video](https://colab.research.google.com/drive/1zuRMtQx6ACrissr8bIpsf0cWAJset50j?usp=sharing) donde se explica paso a paso el proceso de creacion.
+[Video](https://youtu.be/n0oHYbDGubo) donde se explica paso a paso el proceso de creacion.
